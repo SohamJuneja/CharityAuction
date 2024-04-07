@@ -1,1 +1,16 @@
+{
+    "name": "Coin",
+    "description": "A fascinating conversation starter - own this piece of bygone days ",
+    "image": "https://images-cdn.ubuy.co.in/634f23d3f1c890139e115e9e-wuting-1881-carved-collectible-old-coin.jpg",
+    "attributes": [
+        {
+            "trait_type": "Antique",
+            "value": "Coin"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
 
