@@ -1,1 +1,15 @@
-
+{
+    "name": "Painting",
+    "description": "Own a captivating piece of the past with this vintage treasure ",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/640px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+    "attributes": [
+        {
+            "trait_type": "Painting",
+            "value": "Mona Lisa"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
