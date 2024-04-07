@@ -1,1 +1,16 @@
+{
+    "name": "Vase",
+    "description": "Elegance meets history in this stunning antique vase ",
+    "image": "https://cdn.dotpe.in/longtail/store-items/7847917/X10HC7Dr.jpeg.jpg",
+    "attributes": [
+        {
+            "trait_type": "Antique",
+            "value": "Vase"
+        },
+        {
+            "trait_type": "Trait Name",
+            "value": "Trait Value"
+        }
+    ]
+}
 
